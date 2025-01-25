@@ -552,7 +552,7 @@ INSERT INTO `cities` (`id`, `city`, `state_id`) VALUES
 (513, 'Udham Singh Nagar', 33),
 (514, 'Uttarkashi', 33),
 (515, 'Agra', 23),
-(516, 'Allahabad', 23),
+(516, 'Prayagraj', 23),
 (517, 'Aligarh', 23),
 (518, 'Ambedkar Nagar', 23),
 (519, 'Auraiya', 23),
